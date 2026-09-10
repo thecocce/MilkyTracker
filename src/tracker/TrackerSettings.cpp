@@ -28,6 +28,7 @@
  *
  */
 
+#include <cstdlib>
 #include "Tracker.h"
 #include "ModuleEditor.h"
 #include "TrackerSettingsDatabase.h"
